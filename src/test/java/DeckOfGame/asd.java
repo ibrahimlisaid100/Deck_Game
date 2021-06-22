@@ -6,6 +6,7 @@ public class asd {
         System.out.println("hello");
 
         //line 1
+        //line 2
     }
 
 
